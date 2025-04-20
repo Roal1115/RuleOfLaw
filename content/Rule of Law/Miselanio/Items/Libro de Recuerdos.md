@@ -1,0 +1,15 @@
+---
+Name: "[[Libro de Recuerdos]]"
+Attunement: No
+---
+___
+- Es un libro que se le fue otorgado a [[Yone]] mientras estábamos explorando [[Utilidad/Lugares/Mir Engwa]], en este libro se iban plasmando todos los recuerdos de los "fantasmas" que existían en [[Utilidad/Lugares/Mir Engwa]]. Estos mismos entes nos podían dar más información sobre lo que paso en [[Utilidad/Lugares/Mir Engwa]] y de todo su paso, los siguientes son los pasajes que conseguimos para el libro.
+
+	- _"El diario de los amantes, hoy es el gran día si tal vez la guerra termina con nuestras vidas o el gran exilio con nuestra existencia quiero que tomemos el gesto para tomarnos la vida juntos, sea la vida que sea queremos pasarla juntos aunque sean pocas lunas"_
+	- _"Diario del astrólogo debo llevar un paquete para el palacio real. Es extraño las estrellas están confundidas no claras, solo los dioses sabrán que [[Corellon Larethian]] tenga piedad, las calles se ven más llenas de lo común yo esperaré a que muchos hayan abandonado la ciudad.Dejaré esto en el buzón para el cartero"_
+	- _"Diario del explorador, escrito como si alguien escribirá errática como si estuvieras herido, no me siento bien. Mi misión era proteger a Henrick , pero en mi estado no puedo, la espada de ese monstruo es como la mordida de una víbora. La familia del Roble y del Dragón nos mandaron en una misión suicida, toda esta tan frío... "_
+	- _Se para un fantasma que alguien que esta en combate, túnicas largas y bolsillos llenos de pergaminos, báculo largo incrustados de gemas. Un Telquessir en combate.... Caminando platicando con alguien, no trae esta túnica llena de pergaminos en la axila trae un libro.... flashasos de algo borroso. Membrana de extoplasma erratica esfumandose._
+		- _Pagina Diferente "No esta escrito en common, empiezan a aparecer letras en elvish en la superficie... En tono asur el cielo guiara, viajo las estrellas un camino se desvela, en raiza tus pies en el plano terrenal, desde las profundidad se susurrará, busca el templo donde reina la avaricia"_
+	- [[Libro de Recuerdos]] _Olores que se asociaría con Avalon, encomendado por alguien o algo. A su alrededor en el suelo empieza similarmente a brotar flores en el suelo. Se siente como algo que te quiere y te protege. Empiezan a brotar hongos de diferentes tamaños junto con flores que saldrían normalmente en la parte de atrás de la casa. La vegetación va caminando en dirección de la momia de bibliotecario y empieza a encapsularlo todo, como si fuera una especie de timelapse y el bosque absorbiera a esta persona. El báculo justo cuando va a caer una mano lo detiene de un Telquessir. A diferencia de los otros fantasmas este fantasma no es una persona es una silueta, como si el viento de otoño con todas las hojas armara una persona. Se agacha y recoge las llaves y le extiende las llaves para que se pare Avalon Goldwith, "No sabia que todavía quedaban acólitos, veo que en mi ausencia esta gran bóveda a caído víctima del decay Dime nigromante en que siglo estamos? Todo es borroso, eres un peregrino o una invitada?_
+
+#Item

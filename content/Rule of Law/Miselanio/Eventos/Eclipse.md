@@ -1,0 +1,14 @@
+- El Eclipse fue un evento catastrófico que afectó a múltiples planos de existencia. Todo comenzó cuando los [[Yugoloths]], habitantes del plano de [[Gehenna]], decidieron que ya no querían vivir allí. El rey de Gehenna, conocido como el [[Rey En Gris]], decidió entonces invadir el plano material para poder existir en un nuevo lugar. Con el paso del tiempo, lo que comenzó como un simple eclipse evolucionó hasta el punto en que aparecieron venas rojas que conectaban el cielo en un arbol bizarr hecho de diferentes partes humanoides, principalmente brazos entrelazadas.
+- Cada cierto tiempo, un pulso en el aire causaba una reacción física en las personas de incomodidad y ansiedad, y con cada uno de estos pulsos, se liberaba una cantidad mayor de energía [[Yugoloths]] al mundo material. Esto provocó desastres y destrucción en diferentes planos, así como la aparición de monstruos y criaturas aterradoras.
+- [[El Eclipse]] también trajo consigo un aumento en la actividad de aventureros y bandidos, quienes aprovecharon la situación para robar y saquear lo que quedaba de los lugares afectados. Muchas de estas zonas ahora son conocidas como zonas peligrosas, habitadas por bandas y criaturas hostiles que atacan a los viajeros desprevenidos.
+	- Aunque algunos lograron resistir y sobrevivir, muchos otros quedaron en ruinas y desolación, convirtiéndose en lugares peligrosos para los viajeros y aventureros que se aventuran en ellos.
+		- [[The Garden]]
+- Además de la destrucción y la pérdida de vidas, el Eclipse también tuvo un efecto muy extraño en la atmósfera. Durante el evento, una especie de neblina gris comenzó a extenderse por todas partes, haciendo que la visibilidad fuera muy limitada y dificultando el movimiento de las personas.
+- En esta zona gris que se creó, se descubrio que los monstruos eran más agresivos de lo normal y mucho más raros, lo que hacía que cualquier viaje fuera más peligroso. Muchos aventureros aprovecharon la oportunidad para aventurarse en esta zona y buscar tesoros y objetos valiosos que habían quedado desprotegidos después de la destrucción de los reinos importantes.
+	- [[Henrick]]
+	- [[Inasatra]]
+	- [[Marco]]
+- Sin embargo, también hubo quienes creyeron que la neblina gris estaba causada por alguna otra entidad oscura que se había aprovechado del Eclipse para manifestarse en el mundo material. Algunos rumores incluso se pensaba que había algúnos tipos de criaturas demoníacas acechando en las sombras de la neblina gris, esperando para atacar a los desprevenidos.
+- A pesar de todo esto, hubo algunos valientes que se aventuraron en la zona gris para tratar de descubrir qué estaba sucediendo. Algunos de ellos incluso encontraron artefactos antiguos y valiosos que habían estado ocultos durante años, lo que demuestra que en medio de la destrucción y el caos, aún había una oportunidad para aquellos que estaban dispuestos a arriesgar todo para obtenerlo.
+
+#Event 

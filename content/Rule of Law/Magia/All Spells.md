@@ -1,0 +1,84 @@
+1st Level
+- [ ] <mark style="background: #D2B3FFA6;">[[Absorb Element]]</mark>
+- [ ] [[Burning Hands]]
+- [ ] [[Cause Fear]]
+- [ ] [[Charm Person]]
+- [ ] [[Comprehend Languages]]
+- [ ] [[Detect Magic]]
+- [x] [[Feather Fall]]
+- [ ] [[Find Familiar]]
+- [ ] [[Grease]]
+- [ ] [[Ice Knife]]
+- [ ] <mark style="background: #FFB8EBA6;">[[Identify]]</mark>
+- [ ] <mark style="background: #FFB8EBA6;">[[Mage Armor]]</mark>
+- [ ] <mark style="background: #FFB8EBA6;">[[Magic Missile]]</mark>
+- [ ] [[Tasha's Caustic Brew]]
+- [ ] [[Sleep]]
+2nd Level
+- [ ] [[Alter Self]]
+- [ ] [[Arcane Lock]]
+- [ ] <mark style="background: #FFB8EBA6;">[[Augury]]</mark>
+- [ ] [[Blindness Deafness]]
+- [ ] [[Blur]]
+- [ ] [[Detect Thoughts]]
+- [ ] [[Enhance Ability]]
+- [ ] [[Enlarge or Reduce]]
+- [ ] [[Flaming Sphere]]
+- [ ] [[Hold Person]]
+- [ ] [[Locate Object]]
+- [ ] [[Magic Weapon]]
+- [ ] [[Mind Spike]]
+- [ ] <mark style="background: #FFB8EBA6;">[[Mirror Image]]</mark>
+- [ ] <mark style="background: #FFB8EBA6;">[[Misty Step]]</mark>
+- [ ] [[See Invisibility]]
+- [ ] [[Suggestion]]
+- [ ] [[Web]]
+ 3rd Level
+- [ ] [[Blink]]
+- [ ] [[Clairvoyance]]
+- [ ] <mark style="background: #FFB8EBA6;">[[Counterspell]]</mark>
+- [ ] [[Dispel Magic]]
+- [ ] [[Feign Death]]
+- [ ] [[Fireball]]
+- [ ] <mark style="background: #FFB8EBA6;">[[Fly]]</mark>
+- [ ] [[Gaseous Form]]
+- [ ] <mark style="background: #FFB8EBA6;">[[Haste]]</mark>
+- [ ] [[Magic Circle]]
+- [ ] [[Life Transference]]
+- [ ] <mark style="background: #FFB8EBA6;">[[Lightning Bolt]]</mark>
+- [x] [[Sending]]
+- [x] [[Sleet Storm]]
+- [ ] <mark style="background: #FFB8EBA6;">[[Slow]]</mark>
+- [ ] [[Speak With Death]]
+- [ ] [[Spirit Shroud]]
+- [ ] [[Summon Shadowspawn]]
+- [x] [[Tongues]]
+4th Level
+- [ ] [[Arcane Eye]]
+- [x] [[Banishment]]
+- [ ] [[Divination]]
+- [ ] [[Elemental Bane]]
+- [ ] [[Fabricate]]
+- [ ] <mark style="background: #FFB8EBA6;">[[Fire Shield]]</mark>
+- [x] [[Greater Invisibility]]
+- [ ] [[Locate Object]]
+- [x] [[Polymorph]]
+- [ ] [[Watery Sphere]]
+5th Level
+- [ ] [[Animate Objects]]
+- [ ] [[Contact Other Plane]]
+- [ ] <mark style="background: #FFB8EBA6;">[[Cone of Cold]]</mark>
+- [x] [[Dream ]]
+- [x] [[Emerald Communion]]
+- [ ] [[Infernal Calling]]
+- [ ] [[Legend Lore]]
+- [x] [[Passwall]]
+- [ ] [[Rary's Telepathic Bond]]
+- [ ] [[Seeming]]
+- [ ] [[Scrying]]
+- [x] [[Wall of Force]]
+6th Level
+- [ ] [[Create Homunculus]]
+- [x] [[Scatter]]
+- [ ] [[Flesh to Stone]]
+- [ ] [[True Seeing]]

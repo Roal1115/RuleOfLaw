@@ -1,0 +1,16 @@
+---
+Name: Celestria Oakhearth
+Location: "[[Utilidad/Lugares/Mir Engwa]]"
+Faccion: 
+---
+___
+- El misterioso y legendario [[Celestria Oakhearth]], también conocido como el Green Knight, ha sido un descubrimiento clave en la expedición liderada por [[Sir Henrry Nathalien Drakeheart]] en la ciudad de [[Utilidad/Lugares/Mir Engwa]]. Este ser poderoso está vinculado a la magia feérica y celestial, siendo un defensor de la naturaleza. Su apariencia se describe como la de un caballero cubierto de ramas y plantas, con una armadura que presenta una cornamenta de ramas en el casco. Durante un encuentro en la ciudad, atacó al grupo de expedicionarios, añadiendo un aire de misterio a su propósito.
+- El Green Knight ha sido avistado en diversas ocasiones, tanto en el bosque subterráneo como en otros entornos naturales. Se cree que posee la capacidad de guiar y asistir a aquellos que buscan revelar secretos y encontrar caminos ocultos. Diversos dibujos y anotaciones en los diarios de la expedición han capturado su imagen, sugiriendo que ha sido objeto de análisis minuciosos.
+- La presencia del Green Knight es porque se le fue arrebatada la [[Moonstone]] que era su gema primordial, y fue activada como metodo para mantener seguro [[Utilidad/Lugares/Mir Engwa]]
+- **Lección de Celestria Oakhearth:** "Deja el pasado en el pasado".
+- **Green Knight y Celestria Oakhearth:** [[Celestria Oakhearth]], una elfa pálida, lleva un círculo perfecto en el pecho. Sus ojos grises revelan su ceguera total. Su verdadero nombre es [[Celestria Oakhearth]], la primera paladina de Corellon y último acólito de Cernunnos. Su hermano fundó la ciudad mientras ella se convirtió en la espada y el escudo de su gente.
+	- **[[Celestria Oakhearth]], Guardian de Mir Enwa:** La Moonknight, de ojos verdes y marcado por un fuerte color arbol, habla en tres idiomas. Agradece la devolución de la Moonstone, la cual utiliza para proteger lo que queda de su ciudad, Mir Enwa. La ciudad es un centro de poder donde convergen las ramas de Eilindrana. La progenie de la primera bestia busca corromper la Weeb, y Celestria nos pide asistencia en la defensa contra esta amenaza. La primera bestia busca destruir nuestro mundo, y si no se detiene, las consecuencias serán notorias.
+	- _"Héroes de un tiempo ajeno al mío, se agradezco por haber regresado la moonstone. A través de ella es como ejerzo la poca presencia que puedo para proteger lo poco que queda de mi ciudad. Mi nombre es [[Celestria Oakhearth]], guardiana de [[Utilidad/Lugares/Mir Engwa]]. Es una cuna del poder por donde pasan y coinciden las ramas de Eilindrana (el web). La progenie de la primera bestia busca corromper la web, ya sea por destino o misión. En este momento le hacen oposición. Agradezco que hayan regresado la moonstone. Ayúdennos a defendernos, así como a defender a [[Utilidad/Lugares/Mir Engwa]]. La primera bestia quiere destruir el mundo que habitamos. Si aquel que corrompe continúa con su libre agenda, lo volverá a hacer y las consecuencias todos lo notarán."_
+
+
+#Npc #MirEngwa 
