@@ -19,6 +19,6 @@ Roll a d20 at the end of each of your turns for the duration of the spell. On a 
 
 While on the Ethereal Plane, you can see and hear the plane you originated from, which is cast in shades of gray, and you can't see anything there more than 60 feet away. You can only affect and be affected by other creatures on the Ethereal Plane. Creatures that aren't there can't perceive you or interact with you, unless they have the ability to do so.
 
-![[blink.jpg]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/blink.jpg]]
 
 #Spell 

@@ -7,7 +7,7 @@ ___
 - Poseía un templo ancestral y legendario en Fiddler's Green.
 - A Cernunnos lo asesinaron hace mucho tiempo, lo que dio origen a conversaciones entre la gente. Alguien deseaba actuar como intermediario entre dos mundos. Se habla de que las personas han olvidado el mundo primordial, lo que llevó al cierre de las puertas entre ambos. Estos guardianes del paso entre mundos son protegidos y deseados por la corte de verano.
 
-![[Cerunnos.webp | 300]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/npc/Cerunnos.webp| 300]]
 
 ___
 - [[Cernunnos]] posee un seguimiento nicho y rastros de su culto.

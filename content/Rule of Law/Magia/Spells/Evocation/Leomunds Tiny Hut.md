@@ -21,6 +21,6 @@ Nine creatures of Medium size or smaller can fit inside the dome with you. The s
 
 Until the spell ends, you can command the interior to become dimly lit or dark. The dome is opaque from the outside, of any color you choose, but it is transparent from the inside.
 
-![[LeomundsTiny.jpg]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/LeomundsTiny.jpg]]
 
 #Spell 

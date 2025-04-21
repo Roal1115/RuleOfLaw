@@ -41,6 +41,6 @@ Escamas dracónicas aparecen brevemente en sus brazos, brillando con un respland
 ```
 
 
-![[scrying.webp]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/scrying.webp]]
 
 #Spell 

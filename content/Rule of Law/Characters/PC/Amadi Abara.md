@@ -8,6 +8,6 @@ ___
 - Su fiel compañero celestial se llama "Arnie".
 - Hizo un pacto con un ser demoníaco para obtener información sobre los [[Yugoloths]] y sus debilidades, pero a cambio, debe llevar a su patrón demoníaco, los forajidos de los [[Demonios de los Números]], de regreso a su reino o plano original.
 
-![[Amadi.jpeg | 300]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/npc/Amadi.jpeg| 300]]
 
 #Npc #EiyuDochas

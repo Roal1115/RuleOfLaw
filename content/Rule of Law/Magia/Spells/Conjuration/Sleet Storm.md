@@ -22,6 +22,6 @@ The ground in the area is covered with slick ice, making it difficult terrain. W
 
 If a creature starts its turn in the spell's area and is concentrating on a spell, the creature must make a successful Constitution saving throw against your spell save DC or lose concentration.
 
-![[SleetStorm.jpg]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/SleetStorm.jpg]]
 
 #Spell 

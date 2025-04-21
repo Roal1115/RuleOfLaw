@@ -22,6 +22,6 @@ When you cast the spell, you choose seeing or hearing. You can use the chosen se
 
 A creature that can see the sensor (such as a creature benefiting from see invisibility or truesight) sees a luminous, intangible orb about the size of your fist.
 
-![[Clairvoyance.png]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/Clairvoyance.png]]
 
 #Spell 

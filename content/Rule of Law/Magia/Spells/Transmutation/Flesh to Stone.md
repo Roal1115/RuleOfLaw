@@ -23,6 +23,6 @@ If the creature is physically broken while [petrified](https://5e.tools/conditi
 
 If you maintain your concentration on this spell for the entire possible duration, the creature is turned to stone until the effect is removed.
 
-![[fleshToStone.webp]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/fleshToStone.webp]]
 
 #Spell 

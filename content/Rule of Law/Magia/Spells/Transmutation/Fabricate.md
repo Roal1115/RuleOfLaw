@@ -21,6 +21,6 @@ Choose raw materials that you can see within range. You can fabricate a Large or
 
 Creatures or magic items can't be created or transmuted by this spell. You also can't use it to create items that ordinarily require a high degree of craftsmanship, such as jewelry, weapons, glass, or armor, unless you have proficiency with the type of artisan's tools used to craft such objects.
 
-![[fabricate.webp]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/fabricate.webp]]
 
 #Spell 

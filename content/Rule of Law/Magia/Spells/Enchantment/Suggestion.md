@@ -23,6 +23,6 @@ You can also specify conditions that will trigger a special activity during the 
 
 If you or any of your companions damage the target, the spell ends.
 
-![[suggestion.jpg]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/suggestion.jpg]]
 
 #Spell 

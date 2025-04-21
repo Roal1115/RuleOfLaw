@@ -39,6 +39,6 @@ The target has advantage on Wisdom checks.
 At Higher Levels. 
 When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
 
-![[enhanceAbility.jpg]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/enhanceAbility.jpg]]
 
 #Spell 

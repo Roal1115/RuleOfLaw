@@ -18,6 +18,6 @@ Duration: Instantaneous\
 
 Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space that you can see.
 
-![[MistyStep.jpg]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/MistyStep.jpg]]
 
 #Spell 

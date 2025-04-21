@@ -18,6 +18,6 @@ Duration: Round
 
 You transpose the moment that the target would be injured to later in its time stream. Roll damage normally, but do not reduce Hit Points or apply any other effects of the attack until the spells duration has elapsed. When the spell ends, the target is immediately affected by the attack, taking damage, and being affected by any additional effects. 
 
-![[delayedCons.jpg]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/delayedCons.jpg]]
 
 #Spell 

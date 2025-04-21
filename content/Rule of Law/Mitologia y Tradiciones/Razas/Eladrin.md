@@ -3,6 +3,6 @@
 - Los Eladrin se encuentran siempre en contacto con la naturaleza poreso muchos Eladrin cambian su forma de verse fisicamente dependiendo las estaciones del año
 - Somo como que la raza que exisita antes de los Elfos.
 
-![[Eladrin.webp]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/npc/Eladrin.webp]]
 
 #Razas 

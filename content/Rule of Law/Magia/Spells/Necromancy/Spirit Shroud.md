@@ -24,6 +24,6 @@ In addition, any creature of your choice that you can see that starts its turn w
 
 At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 for every two slot levels above 3rd.
 
-![[spiritShroud.jpg]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/spiritShroud.jpg]]
 
 #Spell 

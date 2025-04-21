@@ -26,6 +26,6 @@ The creature is limited in the actions it can perform by the nature of its new f
 
 The target's gear melds into the new form. The creature can't activate, use, wield, or otherwise benefit from any of its equipment.
 
-![[Polymorph.webp]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/Polymorph.webp]]
 
 #Spell 

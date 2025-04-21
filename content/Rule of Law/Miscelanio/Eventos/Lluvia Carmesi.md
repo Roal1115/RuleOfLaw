@@ -9,6 +9,6 @@ Además, el informe de la realeza indicó que [[Lady Dumont]] fue asesinada por 
 
 En resumen, la "Lluvia Carmesí" fue un evento traumático que cambió la vida de muchos en [[Atruanor]] para siempre. Además de causar muerte y destrucción, también dejó claro que hay algo allá afuera atacando a todos de manera indiscriminada.
 
-![[lluviaCarmesi.jpg]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/eventos/lluviaCarmesi.jpg]]
 
 #Event

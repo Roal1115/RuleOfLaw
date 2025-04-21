@@ -19,6 +19,6 @@ You touch a closed door, window, gate, chest, or other entryway, and it becomes 
 
 While affected by this spell, the object is more difficult to break or force open; the DC to break it or pick any locks on it increases by 10.
 
-![[arcaneLock.jpg]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/arcaneLock.jpg]]
 
 #Spell 

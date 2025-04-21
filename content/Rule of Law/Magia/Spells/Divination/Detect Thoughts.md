@@ -26,6 +26,6 @@ You can also use this spell to detect the presence of thinking creatures you can
 
 Once you detect the presence of a creature in this way, you can read its thoughts for the rest of the duration as described above, even if you can't see it, but it must still be within range.
 
-![[detectThoughts.jpg]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/detectThoughts.jpg]]
 
 #Spell 

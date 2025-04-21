@@ -21,8 +21,8 @@ The creature is an ally to you and your companions. In combat, the creature shar
 
 At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, use the higher level wherever the spell's level appears in the stat block.
 
-![[SummonShadownSpawnStatBlock.png]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/SummonShadownSpawnStatBlock.png]]
 
-![[summonShadownspawn.png]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/summonShadownspawn.png]]
 
 #Spell 

@@ -20,6 +20,6 @@ For the duration, you understand the literal meaning of any spoken language that
 
 This spell doesn't decode secret messages in a text or a glyph, such as an arcane sigil, that isn't part of a written language.
 
-![[Comprehendlanguage.webp]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/Comprehendlanguage.webp]]
 
 #Spell 

@@ -21,6 +21,6 @@ While in this form, the target's only method of movement is a flying speed of 10
 
 While in the form of a misty cloud, the target can't talk or manipulate objects, and any objects it was carrying or holding can't be dropped, used, or otherwise interacted with. The target can't attack or cast spells.
 
-![[gaseousForm.jpg]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/gaseousForm.jpg]]
 
 #Spell 

@@ -26,6 +26,6 @@ A creature restrained by the webs can use its action to make a Strength check ag
 
 The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 round, dealing 2d4 fire damage to any creature that starts its turn in the fire.
 
-![[web.webp]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/web.webp]]
 
 #Spell 

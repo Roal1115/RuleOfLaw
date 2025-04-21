@@ -11,6 +11,6 @@ ___
 - Los [[Tel'quessir]] surgieron accidentalmente de la sangre de Corellon.
 - Corellon Larethian, progenitor de los Telquessir, luchó junto a ellos en la gran batalla al final de la era del caos. Su orden marcó el inicio de la mortalidad.
 
-![[Corellion.webp | 300]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/npc/Corellion.webp| 300]]
 
 #Religion #Deidades 

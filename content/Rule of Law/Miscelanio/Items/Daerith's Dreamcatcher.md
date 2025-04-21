@@ -15,6 +15,6 @@ ___
         - False appearance -> While the hat remains silent, it is indistinguishable from a normal hat.
         - Cursed -> If the hat is unwilling, attunement can't be ended unless via the use of a remove curse spell of 5th-level or higher.
 
-![[LadyDaerith.jpeg | 300]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/npc/LadyDaerith.jpeg| 300]]
 
  #Item

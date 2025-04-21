@@ -20,6 +20,6 @@ A stream of acid emanates from you in a line 30 feet long and 5 feet wide in a d
 
 At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 2d4 for each slot level above 1st.
 
-![[tashas-caustic-brew.webp]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/tashas-caustic-brew.webp]]
 
 #Spell 

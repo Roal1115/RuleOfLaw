@@ -12,7 +12,7 @@ ___
 	- Susurra agradecimiento por lo que hemos hecho por uno de los suyos y ofrece su gratitud en nombre del carnaval.
 	- Temporalmente, mientras llevemos las máscaras, serviremos como "mascaradas" para aquellos que nos hayan visto antes de ponérnoslas, reconociéndonos.
 
-![[Lucius.jpeg | 300]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/npc/Lucius.jpeg| 300]]
 
 
 #Npc #Atruanor 

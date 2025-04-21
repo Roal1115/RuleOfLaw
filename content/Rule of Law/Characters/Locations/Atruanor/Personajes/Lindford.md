@@ -9,7 +9,7 @@ ___
 	- durante la pelea pude notar que usó algunos spells como counterspell
 	- carga en su cinto pociones mágicas y spellstones
 - Es una persona muy relajada pero es capaz de mantenerse alerta en situaciones tensas
-![[captain_lindford.jpg|300]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/npc/captain_lindford.jpg|300]]
 
 
 

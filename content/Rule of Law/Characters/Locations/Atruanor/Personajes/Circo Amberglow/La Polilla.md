@@ -13,7 +13,7 @@ ___
 - Su presencia añade intriga y magia al ambiente del circo.
 - Sus habilidades y actuaciones impresionan tanto a los miembros del circo como a los espectadores
 
-![[laPolilla.webp | 300]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/npc/laPolilla.webp| 300]]
 
 ___
 - Carreta de circo que se acampa fuera de las ciudades y tiene una figura encapuchada llamada [[La Polilla]].

@@ -23,6 +23,6 @@ Ejemplo:
 Cierro los ojos, al abrirlos los ojos sus ojos se cubren momentariamente de escamas, la visión atraviesa no solo ilusiones, sino también el flujo del tiempo, percibiendo el pasado y el presente entrelazados.
 ```
 
-![[trueseeing.jpg]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/trueseeing.jpg]]
 
 #Spell 

@@ -20,6 +20,6 @@ Choose a humanoid that you can see within range. The target must succeed on a Wi
 
 At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, you can target one additional humanoid for each slot level above 2nd. The humanoids must be within 30 feet of each other when you target them.
 
-![[holdPerson.jpg]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/holdPerson.jpg]]
 
 #Spell 

@@ -12,6 +12,6 @@ ___
 - Sin embargo, enfrenta problemas de "salud" debido a su capacidad para almacenar más magia de la que puede utilizar. Anteriormente, solucionaba este problema utilizando unas sanguijuelas mágicas que absorbían el exceso de magia de su cuerpo. Ahora, sus circuitos mágicos parecen arder como metal al rojo vivo.
 - Una de las sirvientas de Abigail le susurró al oído la advertencia de que no olvidara cuidar de sus circuitos mágicos, ya que su capacidad de lanzar hechizos está fuera de control debido a su diseño original para un rendimiento mágico mucho mayor que su capacidad actual.
 
-![[Abigail.jpeg | 300]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/npc/Abigail.jpeg| 300]]
 
 #Npc #EiyuDochas 

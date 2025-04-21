@@ -11,7 +11,7 @@ ___
 	- [[Banishment]]
 	- [[Infernal Calling]]
 
-![[infernalSpellbook.webp | 300]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/items/infernalSpellbook.webp| 300]]
 
 
  #Item

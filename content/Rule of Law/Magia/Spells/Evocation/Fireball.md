@@ -25,6 +25,6 @@ The fire spreads around corners. It ignites flammable objects in the area that a
 
 At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
 
-![[fireball.jpg]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/fireball.jpg]]
 
 #Spell 

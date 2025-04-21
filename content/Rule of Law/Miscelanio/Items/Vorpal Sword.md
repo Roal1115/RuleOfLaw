@@ -6,7 +6,7 @@ ___
 - Fue encontrada en un templo de [[Cernunnos]]
 - Item legendary especialmente creado para destruir a [[Jabberwocky]]
 
-![[vorpalBlade.jpeg | 300]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/items/vorpalBlade.jpeg| 300]]
 
 
  #Item

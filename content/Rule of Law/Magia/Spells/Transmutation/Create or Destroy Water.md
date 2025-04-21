@@ -26,6 +26,6 @@ At Higher Levels. 
 
 When you cast this spell using a spell slot of 2nd level or higher, you create or destroy 10 additional gallons of water, or the size of the cube increases by 5 feet, for each slot level above 1st.
 
-![[CreateOrDestroyWater.png]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/CreateOrDestroyWater.png]]
 
 #Spell

@@ -21,6 +21,6 @@ The statistics of the [homunculus](https://5e.tools/bestiary.html#homunculus_mm
 
 You can have only one homunculus at a time. If you cast this spell while your homunculus lives, the spell fails.
 
-![[Homunculus.jpg]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/Homunculus.jpg]]
 
 #Spell 

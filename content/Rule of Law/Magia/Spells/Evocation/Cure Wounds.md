@@ -23,6 +23,6 @@ At Higher Levels. 
 
 When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.
 
-![[cureWounds.jpg]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/cureWounds.jpg]]
 
 #Spell 

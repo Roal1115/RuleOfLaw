@@ -26,7 +26,7 @@ You can attack twice, instead of once, when you take the Attack action on your t
 Immediately after the spell ends, you must succeed on a DC 15 Constitution saving throw or suffer one level of exhaustion.
 
 
-![[TenserTransformation.webp]] 
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/TenserTransformation.webp]] 
 
 
 #Spell 

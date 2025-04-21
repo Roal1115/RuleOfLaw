@@ -25,6 +25,6 @@ ___
         - [[Enhance Ability]]
     - _As an action, you can touch a nonmagical object that isn't being worn or carried and spend a number of charges to transform the target into another object. For 1 charge, the object can be no larger than 1 foot on a side. You can spend additional charges to increase the maximum dimensions by 2 feet per charge. The new object must have a gold value equal to or less than the original._
 
-![[AlchemicalCompendium.jpeg | 300]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/items/AlchemicalCompendium.jpeg| 300]]
 
 #Item

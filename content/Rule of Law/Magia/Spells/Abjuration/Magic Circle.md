@@ -26,6 +26,6 @@ When you cast this spell, you can elect to cause its magic to operate in the rev
 At Higher Levels. 
 When you cast this spell using a spell slot of 4th level or higher, the duration increases by 1 hour for each slot level above 3rd.
 
-![[magicCircle.jpg]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/magicCircle.jpg]]
 
 #Spell 

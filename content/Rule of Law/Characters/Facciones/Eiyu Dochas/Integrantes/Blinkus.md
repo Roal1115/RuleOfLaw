@@ -12,7 +12,7 @@ ___
 - Se nos decidió unir a [[Eiyu Dochas]] y apoyarnos en nuestra lucha, él quiso apoyar nuestra pelea de una manera muy singular. Se le encargó la misión de esparcir la palabra sobre quienes éramos y que es lo que queríamos.
 - Troll con 2 ojos dorados y un solo brazo
 
-![[Blinkus.jpeg | 300]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/npc/Blinkus.jpeg| 300]]
 
 ___
 ## Ubicación

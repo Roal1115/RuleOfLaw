@@ -27,6 +27,6 @@ A duplicate's AC equals 10 + your Dexterity modifier. If an attack hits a duplic
 
 A creature is unaffected by this spell if it can't see, if it relies on senses other than sight, such as blindsight, or if it can perceive illusions as false, as with truesight.
 
-![[mirrorImage.jpg]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/mirrorImage.jpg]]
 
 #Spell 

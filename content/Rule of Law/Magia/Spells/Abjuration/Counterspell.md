@@ -21,6 +21,6 @@ You attempt to interrupt a creature in the process of casting a spell. If the cr
 
 At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the interrupted spell has no effect if its level is less than or equal to the level of the spell slot you used.
 
-![[counterspell.webp]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/counterspell.webp]]
 
 #Spell 

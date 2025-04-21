@@ -24,6 +24,6 @@ You can make the messenger appear monstrous and terrifying to the target. If you
 
 If you have a body part, lock of hair, clipping from a nail, or similar portion of the target's body, the target makes its saving throw with disadvantage.
 
-![[dream.webp]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/dream.webp]]
 
 #Spell 

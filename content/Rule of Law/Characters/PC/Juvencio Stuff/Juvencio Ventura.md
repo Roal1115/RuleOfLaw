@@ -11,6 +11,6 @@ ___
 	- Puedes usar el spell Augury una vez al dia sin gastar spell slot o component material
 
 
-![[Juvencio.jpeg | 300]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/npc/Juvencio.jpeg| 300]]
 
 #Npc #EiyuDochas

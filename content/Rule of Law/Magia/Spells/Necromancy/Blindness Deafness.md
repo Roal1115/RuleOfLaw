@@ -20,6 +20,6 @@ You can blind or deafen a foe. Choose one creature that you can see within range
 
 At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
 
-![[blindnessdeafness.jpg]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/blindnessdeafness.jpg]]
 
 #Spell 

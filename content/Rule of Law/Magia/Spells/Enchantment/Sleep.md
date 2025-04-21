@@ -24,6 +24,6 @@ Undead and creatures immune to being charmed aren't affected by this spell.
 
 At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, roll an additional 2d8 for each slot level above 1st.
 
-![[Sleep.webp]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/Sleep.webp]]
 
 #Spell 

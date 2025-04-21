@@ -21,6 +21,6 @@ For the duration, you sense the presence of magic within 30 feet of you. If you 
 
 The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 
-![[DetectMagic.webp]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/DetectMagic.webp]]
 
 #Spell 

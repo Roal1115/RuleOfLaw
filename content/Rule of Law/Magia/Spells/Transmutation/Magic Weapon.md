@@ -22,6 +22,6 @@ At Higher Levels. 
 
 When you cast this spell using a spell slot of 4th level or higher, the bonus increases to +2. When you use a spell slot of 6th level or higher, the bonus increases to +3.
 
-![[magicWeapon.jpg]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/magicWeapon.jpg]]
 
 #Spell 

@@ -28,6 +28,6 @@ If you possess an individual devil's talisman, you can summon that devil if it i
 At Higher Levels. 
 When you cast this spell using a spell slot of 6th level or higher, the challenge rating increases by 1 for each slot level above 5th.
 
-![[Infernal_Calling5e.webp]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/Infernal_Calling5e.webp]]
 
 #Spell 

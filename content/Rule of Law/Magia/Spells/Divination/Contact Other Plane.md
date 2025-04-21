@@ -33,6 +33,6 @@ Pregunta: “¿Es crucial para nuestra misión encontrar/ir a [nombre del objeto
 ```
  
 
-![[contactOtherPlane.webp]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/contactOtherPlane.webp]]
 
 #Spell 

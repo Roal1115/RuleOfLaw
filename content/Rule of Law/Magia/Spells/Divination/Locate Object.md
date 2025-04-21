@@ -22,6 +22,6 @@ The spell can locate a specific object known to you, as long as you have seen it
 
 This spell can't locate an object if any thickness of lead, even a thin sheet, blocks a direct path between you and the object.
 
-![[locateObject.webp]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/locateObject.webp]]
 
 #Spell 

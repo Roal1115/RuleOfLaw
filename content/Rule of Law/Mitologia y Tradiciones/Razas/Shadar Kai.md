@@ -3,6 +3,6 @@
 - [[Toboshi]] nos menciono que el es un Shadar Kai en un sending
 - Hemos escuchado con son seres con piel calidad y cabello oscuro normalmente vestidos con ropajes negros y pesados para tener proteccion sobre el sol
 
-![[shadarKai.jpg|300]]
+![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/shadarKai.jpg|300]]
 
 #Fey #Razas 
