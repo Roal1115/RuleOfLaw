@@ -1,5 +1,5 @@
 ---
-Name: "[[????]]"
+Name: "[[Ring Of The King (???)]]"
 Attunement: Yes
 Equiped: Yes
 Attuned: Yes
