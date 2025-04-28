@@ -11,7 +11,7 @@ ___
 	- [[Banishment]]
 	- [[Infernal Calling]]
 
-![[infernalSpellbook.webp | 300]]
+![[infernalSpellbook.jpg]]
 
 
  #Item

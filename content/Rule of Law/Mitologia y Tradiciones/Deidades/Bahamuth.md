@@ -4,7 +4,7 @@ Representante:
 ---
 
 ___
-![[Miscelanio/Imagenes/npc/Bahamuth.webp]]
+![[Bahamuth.jpg]]
 
 
 

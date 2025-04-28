@@ -7,7 +7,7 @@ ___
 - Es un dios que gobierna el reino de los muertos y es conocido por ser justo e imparcial en su juicio.
 - Su simbolo es una balanza tipo justicia, pero agarrada por una manita
 
-![[Miscelanio/Imagenes/npc/Kelemvor_avatar.webp| 300]]
+![[Kelemvor_avatar.jpg]]
 
 ___
 - Dentro de [[Utilidad/Lugares/Mir Engwa]], encontramos una tumba en el árbol más joven que pudimos localizar. Sobre la lápida, descubrimos el símbolo de [[Kelemvor]].

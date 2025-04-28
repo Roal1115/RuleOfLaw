@@ -7,6 +7,6 @@ ___
 - Las parteras y los navegantes suelen ofrecer sus oraciones en su honor.
 - Mayormente, se venera en áreas rurales y costeras, entre otros lugares.
 
-![[Miscelanio/Imagenes/npc/Selune.webp| 300]]
+![[Selune.jpg]]
 
 #Religion #Deidades 

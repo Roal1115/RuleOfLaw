@@ -10,7 +10,7 @@ ___
 	- El rey justificó su decisión argumentando que la iglesia de [[Mitologia y Tradiciones/Deidades/Tyr]] predicaba cosas similares a la fe de la [[Iglesia de la Guerra]], la cual era claramente más efectiva en su deber, considerando que fue instrumental en la reciente [[Luthfall War]]. 
 - [[Mitologia y Tradiciones/Deidades/Tyr]] busca la justicia sobre todas las cosas y es considerado el dios de la justicia, el orden y la guerra.
 
-![[Miscelanio/Imagenes/npc/Tyr.webp|300]]
+![[Tyr.jpg]]
 
 
 #Religion #Deidades 

@@ -13,7 +13,7 @@ ___
 - Existe una catedral/iglesia de Ilmater en un área de los "commons" en la ciudad de [[Atruanor]]. Dentro de esta iglesia, hay un árbol que está sangrando, y se dice que su savia cura a las personas que se acercan. Se cree que este árbol es una manifestación del poder divino de [[Ilmater]], y se le atribuye la capacidad de curar físicamente a las personas que se acercan a él. Se dice que es una especie de permanente "life transference" spell.
 	- El árbol sagrado que cura a los enfermos en la Catedral de Ilmater en el área de los Commons en la ciudad de [[Atruanor]] se dice que fue creado por un seguidor de la iglesia de Ilmater durante los eventos de la [[Lluvia Carmesi]] en [[Atruanor]]. Se cree que este seguidor realizó un acto de sacrificio personal en nombre de Ilmater para aliviar el sufrimiento en ese momento, y como resultado, el árbol fue creado y comenzó a sangrar. Desde entonces, se ha convertido en un lugar de peregrinación para aquellos que buscan curación física y espiritual.
 
-![[Miscelanio/Imagenes/npc/ilmater.webp]]
+![[ilmater.jpg]]
 
 
 
