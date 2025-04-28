@@ -15,7 +15,7 @@ ___
 - Hizo alianza con con brujas muy poderosas para poder usar las herramientas de alquimia de [[Zirates]] para poder hacer todo el plan con el envenamiento de la sisterna de [[Atruanor]] 
 - Esta experimentando con diferentes cosas, una de ellas es la creacion de un super soldado. Encontramos a su primer experimento en las alcantarillas de [[Atruanor]]
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/npc/LadyDumont.jpeg| 300]]
+![[Miscelanio/Imagenes/npc/LadyDumont.jpeg| 300]]
 ___
 - Compartió con Avalon que tanto ella como su hermana nunca tuvieron un lugar donde vivir, y esa es la razón por la que se convirtieron en [[Yugoloths]].
 - Segun la informacion que se sabe en el reyno es la siguiente

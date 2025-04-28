@@ -9,6 +9,7 @@ source: Alchemical Compendium
 learned: Yes
 concentration: Yes
 ---
+[[All Spells]]
 4th-level conjuration
 Casting Time: 1 action
 Range: 90 feet
@@ -25,6 +26,6 @@ As an action, you can move the sphere up to 30 feet in a straight line. If it mo
 
 When the spell ends, the sphere falls to the ground and extinguishes all normal flames within 30 feet of it. Any creature restrained by the sphere is knocked prone in the space where it falls. The water then vanishes.
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/waterySphere.jpg]]
+![[waterySphere.jpg]]
 
 #Spell 

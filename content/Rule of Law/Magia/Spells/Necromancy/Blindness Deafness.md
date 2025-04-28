@@ -10,6 +10,7 @@ learned: No
 concentration: No
 upcast: Extra target per lvl
 ---
+[[All Spells]]
 2nd-level necromancy
 Casting Time: 1 action
 Range: 30 feet
@@ -20,6 +21,6 @@ You can blind or deafen a foe. Choose one creature that you can see within range
 
 At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/blindnessdeafness.jpg]]
+![[blindnessdeafness.jpg]]
 
 #Spell 

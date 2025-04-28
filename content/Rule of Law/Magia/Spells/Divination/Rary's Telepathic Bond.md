@@ -11,6 +11,7 @@ prepared: n
 concentration: No
 Ritual: Yes
 ---
+[[All Spells]]
 5th-level divination (ritual)
 Casting Time: 1 action
 Range: 30 feet
@@ -26,6 +27,6 @@ Con un susurro apenas audible, Juvencio murmura palabras en Dracónico, las síl
 A medida que las palabras fluyen, una red de hilos de luz conecta a cada miembro del grupo con el cristal central. Estos hilos, invisibles para el ojo común, son percibidos por Juvencio como finos canales de pensamiento, abiertos y receptivos.
 ```
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/RarysTelepathicBond.jpg]]
+![[RarysTelepathicBond.jpg]]
 
 #Spell 

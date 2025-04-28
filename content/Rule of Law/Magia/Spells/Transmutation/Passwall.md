@@ -10,6 +10,7 @@ learned: Yes
 concentration: No
 prepared: n
 ---
+[[All Spells]]
 5th-level transmutation
 Casting Time: 1 action
 Range: 30 feet
@@ -20,6 +21,6 @@ A passage appears at a point of your choice that you can see on a wooden, plaste
 
 When the opening disappears, any creatures or objects still in the passage created by the spell are safely ejected to an unoccupied space nearest to the surface on which you cast the spell.
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/passwall.png]]
+![[passwall.png]]
 
 #Spell 

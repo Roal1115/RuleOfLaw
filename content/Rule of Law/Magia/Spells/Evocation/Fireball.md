@@ -12,6 +12,7 @@ concentration: No
 damage: "`dice: 8d6` Fire"
 upcast: Extra 1d6 per lvl
 ---
+[[All Spells]]
 3rd-level evocation
 Casting Time: 1 action
 Range: 150 feet
@@ -25,6 +26,6 @@ The fire spreads around corners. It ignites flammable objects in the area that a
 
 At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/fireball.jpg]]
+![[fireball.jpg]]
 
 #Spell 

@@ -12,6 +12,7 @@ damage: "`dice: 3d6` Fire"
 upcast: Extra 1d6 per lvl
 prepared: n
 ---
+[[All Spells]]
 1st-level evocation
 Casting Time: 1 action
 Range: Self (15-foot cone)
@@ -27,6 +28,6 @@ At Higher Levels. 
 
 When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/burningHands.webp]]
+![[burningHands.webp]]
 
 #Spell 

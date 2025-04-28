@@ -9,6 +9,7 @@ source: Watery Staff
 learned: No
 concentration: no
 ---
+[[All Spells]]
 1st-level transmutation (ritual)
 Casting Time: 1 action
 Range: 10 feet
@@ -17,6 +18,6 @@ Duration: Instantaneous
 
 All nonmagical food and drink within a 5-foot-radius sphere centered on a point of your choice within range is purified and rendered free of poison and disease.
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/purifyDrinkAndWater.png]]
+![[purifyDrinkAndWater.png]]
 
 #Spell 

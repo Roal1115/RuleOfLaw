@@ -9,6 +9,7 @@ source: Usable
 learned: No
 concentration: No
 ---
+[[All Spells]]
 3rd-level evocation (ritual)
 Casting Time: 1 minute
 Range: Self (10-foot-radius hemisphere)
@@ -21,6 +22,6 @@ Nine creatures of Medium size or smaller can fit inside the dome with you. The s
 
 Until the spell ends, you can command the interior to become dimly lit or dark. The dome is opaque from the outside, of any color you choose, but it is transparent from the inside.
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/LeomundsTiny.jpg]]
+![[LeomundsTiny.jpg]]
 
 #Spell 

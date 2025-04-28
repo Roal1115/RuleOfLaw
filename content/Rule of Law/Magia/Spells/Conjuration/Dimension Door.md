@@ -10,6 +10,7 @@ learned: No
 prepared: n
 concentration: no
 ---
+[[All Spells]]
 4th-level conjuration
 Casting Time: 1 action
 Range: 500 feet
@@ -22,7 +23,7 @@ You can bring along objects as long as their weight doesn't exceed what you can 
 
 If you would arrive in a place already occupied by an object or a creature, you and any creature traveling with you each take 4d6 force damage, and the spell fails to teleport you.
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/dimensionDoor.jpg]]
+![[dimensionDoor.jpg]]
 
 
 #Spell 

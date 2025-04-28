@@ -11,6 +11,7 @@ materia: Archimagus Materia
 concentration: No
 prepared: y
 ---
+[[All Spells]]
 3rd-level abjuration
 Casting Time: 1 reaction, which you take when you see a creature within 60 feet of you casting a spell
 Range: 60 feet
@@ -21,6 +22,6 @@ You attempt to interrupt a creature in the process of casting a spell. If the cr
 
 At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the interrupted spell has no effect if its level is less than or equal to the level of the spell slot you used.
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/counterspell.webp]]
+![[counterspell.webp]]
 
 #Spell 

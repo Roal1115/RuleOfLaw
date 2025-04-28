@@ -11,6 +11,7 @@ concentration: Yes
 prepared: y
 upcast: Extra target per lvl
 ---
+[[All Spells]]
 4th-level abjuration
 Casting Time: 1 action
 Range: 60 feet
@@ -25,6 +26,6 @@ If the target is native to a different plane of existence than the one you're on
 
 At Higher Levels. When you cast this spell using a spell slot of 5th level or higher, you can target one additional creature for each slot level above 4th.
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/banishment.jpg]]
+![[banishment.jpg]]
 
 #Spell 

@@ -10,6 +10,7 @@ learned: Yes
 concentration: No
 upcast: Extra target per lvl
 ---
+[[All Spells]]
 1st-level enchantment
 Casting Time: 1 action
 Range: 30 feet
@@ -22,6 +23,6 @@ At Higher Levels. 
 
 When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them.
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/charmPerson.jpg]]
+![[charmPerson.jpg]]
 
 #Spell 

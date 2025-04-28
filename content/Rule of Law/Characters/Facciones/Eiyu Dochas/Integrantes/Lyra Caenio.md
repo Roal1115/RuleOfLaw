@@ -13,7 +13,7 @@ ___
 - Tiene intereses como la apicultura y una extraña fascinación por las galletas.
 - Lyra desempeñó un papel crucial en enseñar al equipo a controlar la Rod of the Law, lo que permitió a todos adquirir una habilidad especial después de meses de entrenamiento.
 ___
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/npc/Lyra.jpeg| 300]]
+![[Miscelanio/Imagenes/npc/Lyra.jpeg| 300]]
 
 #### One Shot:
 - Le gustan particularmente las galletas de chocolate, que fueron su primera comida humana.

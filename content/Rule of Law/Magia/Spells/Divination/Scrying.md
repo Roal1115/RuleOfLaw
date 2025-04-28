@@ -10,6 +10,7 @@ learned: Yes
 prepared: y
 concentration: No
 ---
+[[All Spells]]
 5th-level divination
 Casting Time: 10 minutes
 Range: Self
@@ -41,6 +42,6 @@ Escamas dracónicas aparecen brevemente en sus brazos, brillando con un respland
 ```
 
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/scrying.webp]]
+![[scrying.webp]]
 
 #Spell 

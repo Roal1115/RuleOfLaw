@@ -10,6 +10,7 @@ learned: Yes
 prepared: y
 concentration: Yes
 ---
+[[All Spells]]
 3rd-level transmutation
 Casting Time: 1 action
 Range: 120 feet
@@ -24,6 +25,6 @@ If the creature attempts to cast a spell with a casting time of 1 action, roll a
 
 A creature affected by this spell makes another Wisdom saving throw at the end of each of its turns. On a successful save, the effect ends for it.
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/slow.webp]]
+![[slow.webp]]
 
 #Spell 

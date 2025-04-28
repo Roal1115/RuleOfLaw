@@ -29,6 +29,6 @@ De sus 10 comandates que reconocimos hasta ahora han sigo los siguientes:
 - XXXXX - Destruido por la party de Safira
 - XXXXX - Yugoloth con traje de conejito
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/npc/ReyIngris.jpeg]]
+![[Miscelanio/Imagenes/npc/ReyIngris.jpeg]]
 
 #Npc #Yugoloth 

@@ -56,7 +56,7 @@
 4th Level
 - [ ] [[Arcane Eye]]
 - [x] [[Banishment]]
-- [ ] [[Divination]]
+- [ ] [[Magia/Spells/Divination/Divination]]
 - [ ] [[Elemental Bane]]
 - [ ] [[Fabricate]]
 - [ ] <mark style="background: #FFB8EBA6;">[[Fire Shield]]</mark>

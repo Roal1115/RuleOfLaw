@@ -11,6 +11,7 @@ materia: Archimagus Materia
 concentration: Yes
 Ritual: Yes
 ---
+[[All Spells]]
 1st-level divination (ritual)
 Casting Time: 1 action
 Range: Self
@@ -21,6 +22,6 @@ For the duration, you sense the presence of magic within 30 feet of you. If you 
 
 The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/DetectMagic.webp]]
+![[DetectMagic.webp]]
 
 #Spell 

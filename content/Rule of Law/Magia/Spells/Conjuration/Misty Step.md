@@ -10,6 +10,7 @@ materia: Archimagus Materia
 concentration: No
 prepared: y
 ---
+[[All Spells]]
 2nd-level conjuration
 Casting Time: 1 bonus action
 Range: Self
@@ -18,6 +19,6 @@ Duration: Instantaneous\
 
 Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space that you can see.
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/MistyStep.jpg]]
+![[MistyStep.jpg]]
 
 #Spell 

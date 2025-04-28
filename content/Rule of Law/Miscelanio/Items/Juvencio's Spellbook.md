@@ -29,7 +29,7 @@ ___
 	- [[Tongues]]
 	- [[Feign Death]]
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/items/JuvencioSpellbook.png| 300]]
+![[JuvencioSpellbook.png | 300]]
 
 
 

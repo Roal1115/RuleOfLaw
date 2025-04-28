@@ -13,6 +13,7 @@ prepared: y
 damage: "`dice: 8d8` Cold"
 upcast: Extra 1d8 per lvl
 ---
+[[All Spells]]
 5th-level evocation
 Casting Time: 1 action
 Range: Self (60-foot cone)
@@ -26,6 +27,6 @@ A creature killed by this spell becomes a frozen statue until it thaws.
 
 At Higher Levels. When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/coneOfCold.webp]]
+![[coneOfCold.webp]]
 
 #Spell 

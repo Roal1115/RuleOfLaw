@@ -11,6 +11,7 @@ prepared: n
 concentration: No
 Ritual: Yes
 ---
+[[All Spells]]
 5th-level divination (ritual)
 Casting Time: 1 minute
 Range: Self
@@ -33,6 +34,6 @@ Pregunta: “¿Es crucial para nuestra misión encontrar/ir a [nombre del objeto
 ```
  
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/contactOtherPlane.webp]]
+![[contactOtherPlane.webp]]
 
 #Spell 

@@ -13,5 +13,5 @@ ___
 	- El título está flawd al mago más capaz, pero es la primera y última línea de defensa.
 - <mark style="background: #BBFABBA6;">[[Liora Ravenstar]] me ofreció un trato de tomarme bajo su ala siempre y cuando Juvencio realmente intente obtener el título de Archmagister.</mark>
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/npc/Liora.jpeg| 300]]
+![[Liora.jpeg | 300]]
 #Npc 

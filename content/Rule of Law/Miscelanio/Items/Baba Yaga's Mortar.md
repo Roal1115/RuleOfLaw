@@ -7,6 +7,6 @@ ___
 - Immunity to disease
 - Regain 1d6 hit points at the start of your turn if you have at least 1 hit point
 - Disadvantage on saving throws agains being charmed
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/items/baba-yaga-mortar-and-pestle.jpg| 300]]
+![[baba-yaga-mortar-and-pestle.jpg | 300]]
 
  #Item

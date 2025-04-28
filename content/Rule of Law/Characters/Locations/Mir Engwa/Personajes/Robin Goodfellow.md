@@ -16,7 +16,7 @@ ___
 - Se ve como un muñequito, estaba completamento desnudo pero no tenia ningun aparato reproductor
 - Vivia en un tronco en el [[FeyWild]]
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/npc/puck.jpg|300]]
+![[Miscelanio/Imagenes/npc/puck.jpg|300]]
 
 #Npc #Fey 
 

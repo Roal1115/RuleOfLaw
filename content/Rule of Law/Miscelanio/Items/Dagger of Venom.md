@@ -8,7 +8,7 @@ ___
 - You can use an action to chause thick, black poison to coat the balde. The posion remains for 1 minute or until an attack using this weapon hits a creature.
 - The creature must succeed on a dc 15 Constitution saving throw or take 2d10 poison damage and become poisoned for 1 minute. The dagger cant be used his way again until the next dawn 
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/items/daggerofVenom.jpeg| 300]]
+![[daggerofVenom.jpeg | 300]]
 
 
  #Item

@@ -10,6 +10,7 @@ learned: No
 concentration: Yes
 upcast: Extra 2d4 per lvl
 ---
+[[All Spells]]
 1st-level evocation
 Casting Time: 1 action
 Range: Self (30-foot line)
@@ -20,6 +21,6 @@ A stream of acid emanates from you in a line 30 feet long and 5 feet wide in a d
 
 At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 2d4 for each slot level above 1st.
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/tashas-caustic-brew.webp]]
+![[tashas-caustic-brew.webp]]
 
 #Spell 

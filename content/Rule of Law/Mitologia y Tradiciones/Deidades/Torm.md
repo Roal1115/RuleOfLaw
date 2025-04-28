@@ -16,7 +16,7 @@ ___
 	- [[Sir Wayland]]
 	- [[Arcipreste Emmerich]]
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/tormSymbol.webp|300]]
+![[tormSymbol.webp|300]]
 
 
 

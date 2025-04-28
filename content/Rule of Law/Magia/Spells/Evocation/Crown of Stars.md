@@ -10,6 +10,7 @@ learned: Yes
 prepared: n
 concentration: No
 ---
+[[All Spells]]
 7th-level evocation
 Casting Time: 1 action
 Range: Self
@@ -21,7 +22,7 @@ If you have four or more motes remaining, they shed bright light in a 30-foot ra
 
 At Higher Levels. When you cast this spell using a spell slot of 8th level or higher, the number of motes created increases by two for each slot level above 7th.
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/crownOfStars.jpeg]]
+![[crownOfStars.jpeg]]
 
 
 #Spell 

@@ -10,6 +10,6 @@ ___
 - El sentido de deber que tenía hacia el reino, era mayor que cualquier otra cosa y que ha tenido en su vida
 - [[Abigail]] fue lo que hizo que [[Zirates]] encontrara propósito en la vida de nuevo 
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Personajes/zirates.png| 300]]
+![[zirates.png | 300]]
 
 #Npc #Atruanor 

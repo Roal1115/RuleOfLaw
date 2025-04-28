@@ -11,6 +11,7 @@ concentration: Yes
 damage: "`dice: 2d6` Extra dmg"
 upcast: Extra target per lvl
 ---
+[[All Spells]]
 4th-level transmutation
 Casting Time: 1 action
 Range: 90 feet
@@ -24,6 +25,6 @@ At Higher Levels. 
 
 When you cast this spell using a spell slot of 5th level or higher, you can target one additional creature for each slot level above 4th. The creatures must be within 30 feet of each other when you target them.
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/ElementalBane.webp]]
+![[ElementalBane.webp]]
 
 #Spell 

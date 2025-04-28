@@ -11,6 +11,7 @@ prepared: y
 concentration: No
 materia: Blue
 ---
+[[All Spells]]
 3rd-level evocation
 Casting Time: 1 bonus action
 Range: 60 feet
@@ -20,6 +21,6 @@ As you call out words of restoration, up to six creatures of your choice that yo
 
 At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the healing increases by 1d4 for each slot level above 3rd.
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/MassHealingWord.webp]]
+![[MassHealingWord.webp]]
 
 #Spell 

@@ -13,6 +13,7 @@ materia: Forgeblade
 damage: "`dice: 1d6` Triggering Type"
 upcast: Extra 1d6 per lvl
 ---
+[[All Spells]]
 1st-level abjuration
 Casting Time: 1 reaction, which you take when you take acid, cold, fire, lightning, or thunder damage
 Range: Self
@@ -26,6 +27,6 @@ At Higher Levels. 
 
 When you cast this spell using a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each slot level above 1st.
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/AbsorbElements.jpg]]
+![[AbsorbElements.jpg]]
 
 #Spell 

@@ -10,6 +10,7 @@ learned: Yes
 prepared: y
 concentration: Yes
 ---
+[[All Spells]]
 6th-level transmutation
 Casting Time: 1 action
 Range: Self
@@ -26,7 +27,7 @@ You can attack twice, instead of once, when you take the Attack action on your t
 Immediately after the spell ends, you must succeed on a DC 15 Constitution saving throw or suffer one level of exhaustion.
 
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/TenserTransformation.webp]] 
+![[TenserTransformation.webp]] 
 
 
 #Spell 

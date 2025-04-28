@@ -10,6 +10,7 @@ learned: Yes
 concentration: Yes
 upcast: Extra Bonus Dmg
 ---
+[[All Spells]]
 2nd-level transmutation
 Casting Time: 1 bonus action
 Range: Touch
@@ -22,6 +23,6 @@ At Higher Levels. 
 
 When you cast this spell using a spell slot of 4th level or higher, the bonus increases to +2. When you use a spell slot of 6th level or higher, the bonus increases to +3.
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/magicWeapon.jpg]]
+![[magicWeapon.jpg]]
 
 #Spell 

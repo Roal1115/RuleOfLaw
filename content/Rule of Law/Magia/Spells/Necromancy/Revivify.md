@@ -10,6 +10,7 @@ learned: No
 prepared: n
 concentration: no
 ---
+[[All Spells]]
 3rd-level necromancy
 Casting Time: 1 action
 Range: Touch

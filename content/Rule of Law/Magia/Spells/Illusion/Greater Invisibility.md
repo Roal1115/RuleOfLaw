@@ -10,6 +10,7 @@ learned: Yes
 concentration: Yes
 prepared: y
 ---
+[[All Spells]]
 4th-level illusion
 Casting Time: 1 action
 Range: Touch
@@ -18,6 +19,6 @@ Duration: Concentration, up to 1 minute
 
 You or a creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target's person.
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/greaterInvisibility.jpg]]
+![[greaterInvisibility.jpg]]
 
 #Spell 

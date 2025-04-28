@@ -10,6 +10,7 @@ learned: No
 concentration: Yes
 upcast: Extra 1d8 per lvl
 ---
+[[All Spells]]
 3rd-level necromancy
 Casting Time: 1 bonus action
 Range: Self
@@ -24,6 +25,6 @@ In addition, any creature of your choice that you can see that starts its turn w
 
 At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 for every two slot levels above 3rd.
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/spiritShroud.jpg]]
+![[spiritShroud.jpg]]
 
 #Spell 

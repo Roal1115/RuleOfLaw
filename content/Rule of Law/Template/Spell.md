@@ -14,4 +14,4 @@ concentration:
 
 
 
-#Spell 
+#Spell [[All Spells]]

@@ -10,6 +10,7 @@ learned: Yes
 concentration: Yes
 prepared: y
 ---
+[[All Spells]]
 5th-Level Divination
 Casting Time: 1 Action
 Range: Self
@@ -31,6 +32,6 @@ Casting this spell attunes your senses to the intricate web of ley lines that pe
 Flavor: Juvencio respira profundamente, sintiendo el frío tacto de la esmeralda en su mano mientras sus palabras dracónicas resuenan suavemente. Al canalizar el poder del hechizo, su piel comienza a brillar con un resplandor verdoso, y sus ojos, ahora envueltos en un suave resplandor esmeralda, se abren para ver más allá del velo de la realidad.
 ```
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/emeraldCommunion.jpg]]
+![[emeraldCommunion.jpg]]
 
 #Spell 

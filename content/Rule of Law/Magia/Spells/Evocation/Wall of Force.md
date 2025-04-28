@@ -10,6 +10,7 @@ learned: Yes
 concentration: Yes
 prepared: y
 ---
+[[All Spells]]
 5th-level evocation
 Casting Time: 1 action
 Range: 120 feet
@@ -20,6 +21,6 @@ An invisible wall of force springs into existence at a point you choose within r
 
 Nothing can physically pass through the wall. It is immune to all damage and can't be dispelled by dispel magic. A disintegrate spell destroys the wall instantly, however. The wall also extends into the Ethereal Plane, blocking ethereal travel through the wall.
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/wallofForce.jpeg]]
+![[wallofForce.jpeg]]
 
 #Spell 

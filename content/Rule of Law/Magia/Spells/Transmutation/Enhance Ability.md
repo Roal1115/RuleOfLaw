@@ -11,6 +11,7 @@ concentration: Yes
 prepared: y
 upcast: Extra target per lvl
 ---
+[[All Spells]]
 2nd-level transmutation
 Casting Time: 1 action
 Range: Touch
@@ -39,6 +40,6 @@ The target has advantage on Wisdom checks.
 At Higher Levels. 
 When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/enhanceAbility.jpg]]
+![[enhanceAbility.jpg]]
 
 #Spell 

@@ -11,6 +11,7 @@ concentration: No
 damage: "`dice: 4d8`Necrotic"
 upcast: Extra 1d8 per lvl
 ---
+[[All Spells]]
 3rd-level necromancy
 Casting Time: 1 action
 Range: 30 feet
@@ -22,6 +23,6 @@ You sacrifice some of your health to mend another creature's injuries. You take 
 
 At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 for each slot level above 3rd.
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/LifeTransference.webp]]
+![[LifeTransference.webp]]
 
 #Spell 

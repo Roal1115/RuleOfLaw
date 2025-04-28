@@ -1,0 +1,41 @@
+___
+<mark style="background: #BBFABBA6;">Max HP</mark>: 81
+<mark style="background: #FFB86CA6;">Portent:</mark>  
+
+| 1st   | 2nd   | 3rd   | 4th | 5th | 6th | 7th |
+| ----- | ----- | ----- | --- | --- | --- | --- |
+| ==x== | ==x== | ==x== | x   | x   | x   | x   |
+| ==x== | x     | ==x== | x   | x   |     |     |
+| x     | x     | ==x== | x   |     |     |     |
+| x     |       |       |     |     |     |     |
+___
+Resume las siguientes notas
+
+- **Encuentro en Vasilios Arco:** En el Vasilios Arco, al llegar, somos bienvenidos por una Lumenai Quessir llamada [[Morwen]], a quien conocemos desde The Garden. Esta vez viste de forma muy distinta (ropa extraña, sus extremidades como brazos y pies parecen ser armadura de color bronce, una armadura que se encuentra alrededor de Axis con divisiones mecánicas). Esto contrasta mucho con su ropa, que es una especie de vestido de aspecto gnomish. 
+	- Todas sus extremidades son arcano mecánicas.
+- **Subida al óculus:** Subimos al óculus (en el transcurso de la subida, [[Yone]] usa _divine sense_ y no encuentra nada). Ahora, todo lo que antes era desierto es una sociedad de gnomos. Hay una torre de metal con pedazos de axitita, que funciona como algún tipo de bobina Tesla. En la parte más alta de esa torre, hay un gnomo gritando con lentes que parecen tener magnificadores. 
+	- **Zibna** es el nombre de quien pensamos que es la líder, la que estaba arriba de la torre. 
+	- Tomó una escama de dragón negro que suprime magia menor. 
+	- Son la **[[Glimming Threat]]**, en búsqueda de tecnología que pueda ayudar a la civilización gnómica.
+	- **[[Zibna]]** le enseña a Juvencio que una de las tecnologías en las cuales están trabajando es un tipo de guante con 6 dedos. Con permiso de Zibna, Juvencio utilizo este guante para caster Enhance Ability lo cual Juvencio entendió por qué estaban trabajando en este, es como si todo fuera más sencillo con un dedo extra como si pudiera hacer encantamento de una manera más fácil y orgánica
+- **Incidente del monasterio durante la Luth Fall War:** Durante la Luth Fall War, hubo un monasterio donde guardaban un artefacto que fue atacado por orcos.
+	- El líder de ese monasterio era un dragón rojo que hospedaba una reliquia: la flecha de [[Corellon Larethian]]. Cuando empezó la guerra, el líder impartió su bendición a los monjes más hábiles, convirtiéndolos en _dragonborns_.
+- **Tempus:** Tempus, dios de la guerra y el conflicto.
+- **Viaje a Emain Abalach:** Viajamos a Emain Abalach a buscar a la madrina de Avalon Goldwith. - Llegamos a un bosque muy denso y de aspecto un poco tenebroso (parecía el Bosque Prohibido de Harry Potter de día). Había una neblina que, tras inspección, parecía natural, pero se sentía mágica. 
+- **Lumara:** Lumara fue un ente que nos atacó; también se le conoce como "_Personas poseídas_". Casi mata a [[Saphira]] y a [[Yone]], dejándolos con 1 punto de HP y paralizando a Saphira. 
+	- Juvencio utilizó su último _portent_ para evitar un ataque de oportunidad contra Yone al intentar cargar a [[Saphira]] y llevarla a un lado "seguro".
+- **Llegada a la casa de Haine Witorm:** Tras pasar una barrera existente, llegamos a un lugar lleno de flores y pasto. Se veía una casa tipo _cottage_ (grande para un _cottage_, pero no una mansión), con campanillas de viento colgadas afuera. Allí estaba [[Haine Witorm]] (madrina de Avalon).
+	- **Historia de Atruanor y Elysia:** 
+	
+	>	Atruanor solía ser territorio de un clan de _telquessir_. Este clan fundó la joya de esa época, Mir Engwa, gente que eventualmente fue conocida como _eladrin_. Mir Engwa era hogar de razas más jóvenes como _hints_, como Elicia Goldwith. Cuando se avecinaba la caída de [[Mir Engwa]] (algo que los _eladrin_ fueron demasiado orgullosos para notar hasta que fue demasiado tarde), es donde Elicia intervino e hizo lo que fuera necesario para salvar a sus amigos. **Elysia** cerró un trato con Baba Yaga para salvar a su familia y amigos, para obtener refugio y ayuda donde pudieran crecer y sobrevivir más que los humanos. A consecuencia de este acto, Baba Yaga ayudó a todos los que se llamaran amigos de [[Elysia]]; a cambio, Baba Yaga pidió algo que no fue simple e inmediato: Baba Yaga pidió una puerta/pasaje. Ella le pidió ayuda a Elysia para abrir una puerta que no se abriría hasta después de generaciones, un secreto que Elysia desconocía: la séptima sangre de la séptima sangre, una persona que se llamaría igual que la puerta. Elysia sabía que esto era arriesgado, pero tenía tanta confianza y optimismo que esperó que sus descendientes hicieran algo al respecto. Elysia permaneció en el plano material.
+
+	- **El mortero de Baba Yaga:** El mortero de Baba Yaga: ancestros tuyos que intentaron hacer algo al respecto robaron el pistilo, tratando de obtener algo de ventaja sobre Baba Yaga, ya que los _spellcasters_ son muy cercanos a sus objetos personales.
+	- **Morgana:** Morgana es una bruja poderosa, peligrosa, manipuladora, un poco pragmática y orgullosa, y ha roto lazos con muchos enemigos. 
+		- **Actos que ha hecho Morgana:** Envenenar reyes, terminar civilizaciones: es una persona que piensa que el fin justifica los medios.
+	- **Liora:** [[Liora Ravenstar]] es muy hábil, de una determinación pequeña pero muy capaz; trabaja para los reinos humanos de [[Atruanor]]. 
+	- **Avalon:** Avalon es un reino divino. 
+		- Ancla dimensional: esto está guardado en el código genérico de la existencia.
+
+#Notas 
+
+#DeepSeek : 

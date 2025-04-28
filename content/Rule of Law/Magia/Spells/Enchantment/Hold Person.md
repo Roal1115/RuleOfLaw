@@ -10,6 +10,7 @@ learned: No
 concentration: Yes
 upcast: Extra target per lvl
 ---
+[[All Spells]]
 2nd-level enchantment
 Casting Time: 1 action
 Range: 60 feet
@@ -20,6 +21,6 @@ Choose a humanoid that you can see within range. The target must succeed on a Wi
 
 At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, you can target one additional humanoid for each slot level above 2nd. The humanoids must be within 30 feet of each other when you target them.
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/holdPerson.jpg]]
+![[holdPerson.jpg]]
 
 #Spell 

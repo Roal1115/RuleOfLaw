@@ -10,6 +10,7 @@ learned: Yes
 prepared: n
 concentration: Yes
 ---
+[[All Spells]]
 2nd-level divination
 Casting Time: 1 action
 Range: Self
@@ -22,6 +23,6 @@ The spell can locate a specific object known to you, as long as you have seen it
 
 This spell can't locate an object if any thickness of lead, even a thin sheet, blocks a direct path between you and the object.
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/locateObject.webp]]
+![[locateObject.webp]]
 
 #Spell 

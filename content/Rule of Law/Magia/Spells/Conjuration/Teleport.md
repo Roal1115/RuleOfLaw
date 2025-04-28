@@ -10,6 +10,7 @@ learned: Yes
 prepared: y
 concentration: No
 ---
+[[All Spells]]
 7th-level conjuration
 Casting Time: 1 action
 Range: 10 feet
@@ -42,6 +43,6 @@ Similar Area. You and your group (or the target object) wind up in a different a
 
 Mishap. The spell's unpredictable magic results in a difficult journey. Each teleporting creature (or the target object) takes 3d10 force damage, and the DM rerolls on the table to see where you wind up (multiple mishaps can occur, dealing damage each time).
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/Teleportation.webp]]
+![[Teleportation.webp]]
 
 #Spell 

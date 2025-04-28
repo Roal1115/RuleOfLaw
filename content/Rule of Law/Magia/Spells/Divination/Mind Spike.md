@@ -12,6 +12,7 @@ concentration: Yes
 damage: "`dice: 3d8` Psychic"
 upcast: Extra 1d8 per lvl
 ---
+[[All Spells]]
 2nd-level divination
 Casting Time: 1 action
 Range: 60 feet
@@ -22,6 +23,6 @@ You reach into the mind of one creature you can see within range. The target mus
 
 At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/MindSpike.webp]]
+![[MindSpike.webp]]
 
 #Spell 

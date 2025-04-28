@@ -12,7 +12,7 @@ Representante: "[[Argon]]"
 	- Es un Platinum Dragon, se piensa por muchos que es el unico en su clase 
 - Cuando se hace presnete se ven 7 canarios de color amarillo brilloso (dorado) volando al rededor
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/npc/Bahamuth.webp| 300]]
+![[Miscelanio/Imagenes/npc/Bahamuth.webp| 300]]
 
 
 

@@ -10,6 +10,7 @@ learned: Yes
 prepared: n
 concentration: No
 ---
+[[All Spells]]
 6th-level divination
 Casting Time: 1 action
 Range: Touch
@@ -23,6 +24,6 @@ Ejemplo:
 Cierro los ojos, al abrirlos los ojos sus ojos se cubren momentariamente de escamas, la visión atraviesa no solo ilusiones, sino también el flujo del tiempo, percibiendo el pasado y el presente entrelazados.
 ```
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/trueseeing.jpg]]
+![[trueseeing.jpg]]
 
 #Spell 

@@ -14,6 +14,6 @@ ___
 - Es conocida por su enfoque poco convencional en la resolución de problemas y su práctica de la primera religión como Druida.
 - El segundo individuo mencionado era un Mago de la corte de [[Utilidad/Lugares/Mir Engwa]], quien trabajaba arduamente bajo las órdenes del rey en la ciudad.
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/npc/Ralonan.jpeg| 300]]
+![[Miscelanio/Imagenes/npc/Ralonan.jpeg| 300]]
 
 #Npc #EiyuDochas 

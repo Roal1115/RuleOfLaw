@@ -9,6 +9,7 @@ source: Spellbook
 learned: Yes
 concentration: Yes
 ---
+[[All Spells]]
 3rd-level conjuration
 Casting Time: 1 action
 Range: 90 feet
@@ -21,8 +22,8 @@ The creature is an ally to you and your companions. In combat, the creature shar
 
 At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, use the higher level wherever the spell's level appears in the stat block.
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/SummonShadownSpawnStatBlock.png]]
+![[SummonShadownSpawnStatBlock.png]]
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/summonShadownspawn.png]]
+![[summonShadownspawn.png]]
 
 #Spell 

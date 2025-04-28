@@ -12,6 +12,7 @@ concentration: Yes
 prepared: y
 damage: "`dice: 2d8` Fire/Cold"
 ---
+[[All Spells]]
 4th-level evocation
 Casting Time: 1 action
 Range: Self
@@ -25,6 +26,6 @@ The flames provide you with a warm shield or a chill shield, as you choose. The 
 
 In addition, whenever a creature within 5 feet of you hits you with a melee attack, the shield erupts with flame. The attacker takes 2d8 fire damage from a warm shield, or 2d8 cold damage from a cold shield.
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/fireShield.webp]]
+![[fireShield.webp]]
 
 #Spell 

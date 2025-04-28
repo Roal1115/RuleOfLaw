@@ -12,7 +12,7 @@ ___
 - Se despidió de mí como si fuera la última vez que nos fuéramos a ver, menciona que siempre está dispuesto a sacrificarse para encontrar la respuesta.
 - Se siente orgulloso de mí por lo que he logrado
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/npc/Keldruiastas.png|300]]
+![[Miscelanio/Imagenes/npc/Keldruiastas.png|300]]
 ___
 - Preguntas:
 	- ¿Cuál es el origen de su magia draconica y por qué Keldruiastas lo eligió como su discípulo?

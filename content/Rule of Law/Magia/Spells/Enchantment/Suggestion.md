@@ -9,6 +9,7 @@ source: Spellbook
 learned: Yes
 concentration: Yes
 ---
+[[All Spells]]
 2nd-level enchantment
 Casting Time: 1 action
 Range: 30 feet
@@ -23,6 +24,6 @@ You can also specify conditions that will trigger a special activity during the 
 
 If you or any of your companions damage the target, the spell ends.
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/suggestion.jpg]]
+![[suggestion.jpg]]
 
 #Spell 

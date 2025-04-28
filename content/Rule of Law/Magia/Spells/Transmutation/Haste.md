@@ -10,6 +10,7 @@ learned: Yes
 prepared: y
 concentration: Yes
 ---
+[[All Spells]]
 3rd-level transmutation
 Casting Time: 1 action
 Range: 30 feet
@@ -20,6 +21,6 @@ Choose a willing creature that you can see within range. Until the spell ends, t
 
 When the spell ends, the target can't move or take actions until after its next turn, as a wave of lethargy sweeps over it.
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/haste.jpeg]]
+![[haste.jpeg]]
 
 #Spell 

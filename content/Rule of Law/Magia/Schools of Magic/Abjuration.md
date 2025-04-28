@@ -1,4 +1,3 @@
-- La magia de abjuración es un tipo de magia que se enfoca en la protección y la defensa contra la magia y otros efectos mágicos. 
-- Los conjuros de abjuración son capaces de crear barreras mágicas, disipar hechizos y proteger contra el daño mágico. 
+La magia de Abjuración es una rama arcana enfocada en la protección y la negación de otros efectos mágicos. Los conjuros de esta escuela se centran en crear barreras místicas que absorben daño, desvían ataques o contrarrestan hechizos hostiles. En esencia, la Abjuración es el arte de la defensa mágica, permitiendo a los conjuradores protegerse a sí mismos y a sus aliados de diversas amenazas, tanto físicas como mágicas.
 
-#Magic
+#SchoolOfMagic

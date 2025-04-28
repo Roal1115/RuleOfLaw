@@ -12,6 +12,7 @@ concentration: No
 prepared: y
 Ritual: Yes
 ---
+[[All Spells]]
 1st-level divination (ritual)
 Casting Time: 1 minute
 Range: Touch
@@ -22,6 +23,6 @@ You choose one object that you must touch throughout the casting of the spell. I
 
 If you instead touch a creature throughout the casting, you learn what spells, if any, are currently affecting it
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/identify.jpg]]
+![[identify.jpg]]
 
 #Spell 

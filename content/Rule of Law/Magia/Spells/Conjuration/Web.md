@@ -10,6 +10,7 @@ learned: Yes
 concentration: Yes
 prepared: n
 ---
+[[All Spells]]
 2nd-level conjuration
 Casting Time: 1 action
 Range: 60 feet
@@ -26,6 +27,6 @@ A creature restrained by the webs can use its action to make a Strength check ag
 
 The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 round, dealing 2d4 fire damage to any creature that starts its turn in the fire.
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/web.webp]]
+![[web.webp]]
 
 #Spell 

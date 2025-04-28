@@ -13,6 +13,6 @@ ___
 - Siempre busca hacer lo que considera "bien", incluso si debe recurrir a métodos poco convencionales.
 - [[Justine]] es un [[Cambion]], mitad demonio.
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/npc/Justine.jpeg| 300]]\
+![[Miscelanio/Imagenes/npc/Justine.jpeg| 300]]\
 
 #Npc #EiyuDochas 

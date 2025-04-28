@@ -11,6 +11,7 @@ concentration: No
 damage: "`dice: 1d10` Piercing / 5ft explosion `dice: 2d6`"
 upcast: Extra 1d6 per lvl
 ---
+[[All Spells]]
 1st-level conjuration
 Casting Time: 1 action
 Range: 60 feet
@@ -23,6 +24,6 @@ At Higher Levels. 
 
 When you cast this spell using a spell slot of 2nd level or higher, the cold damage increases by 1d6 for each slot level above 1st.
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/iceKnife.webp]]
+![[iceKnife.webp]]
 
 #Spell 

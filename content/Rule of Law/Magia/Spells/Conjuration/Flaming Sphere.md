@@ -11,6 +11,7 @@ concentration: Yes
 damage: "`dice: 2d6` Fire"
 upcast: Extra 1d6 per lvl
 ---
+[[All Spells]]
 2nd-level conjuration
 Casting Time: 1 action
 Range: 60 feet
@@ -26,6 +27,6 @@ When you move the sphere, you can direct it over barriers up to 5 feet tall and 
 
 At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 2nd.
 
-![[quartz/public/Rule-of-Law/Miselanio/Imagenes/Spells/flamingSphere.webp]]
+![[flamingSphere.webp]]
 
 #Spell 
